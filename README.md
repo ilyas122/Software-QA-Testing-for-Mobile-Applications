@@ -3,7 +3,9 @@
 #Demo Video: https://www.youtube.com/watch?v=HvjHvSrsNSE&ab_channel=MohammedIlyasAhmed
 
 
-AI Test Model: <img width="316" alt="image" src="https://github.com/ilyas122/Software-QA-Testing-for-Mobile-Applications/assets/47917247/54f69dff-775d-4324-9393-4fa5c3a63c49">
+AI Test Model: 
+
+<img width="316" alt="image" src="https://github.com/ilyas122/Software-QA-Testing-for-Mobile-Applications/assets/47917247/54f69dff-775d-4324-9393-4fa5c3a63c49">
 
 
 Test Cases:
